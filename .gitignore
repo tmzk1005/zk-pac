@@ -1,0 +1,12 @@
+# vs code ingore
+.vscode
+*.suo
+*.njsproj
+
+# vim ingore
+*.swp
+*.swo
+
+# Mac OS ingore
+.DS_Store
+
